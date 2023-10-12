@@ -1,3 +1,48 @@
 body {
-  background-color: hotpink;
+  background-color: lightsalmon;
+}
+
+h1 {
+  color: black;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  text-align: center;
+  font-weight: bolder;
+  text-shadow: 2px 2px pink
+  
+}
+
+h2 {
+  color: brown;
+}
+
+article {
+  padding: 12px;
+  margin: 4px;
+}
+
+#articleOne {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  border: 6px dotted hotpink;
+  border-radius: 10px;
+ 
+}
+
+#articleTwo {
+  font-family: Arial, Helvetica, sans-serif;
+  border: 5px solid coral;
+  border-radius: 10px;
+  
+}
+
+#articleThree {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 3px dashed peru;
+  
+}
+
+#articleFour {
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border: 8px solid cornflowerblue;
+  border-radius: 5px;
+ 
 }
